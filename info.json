@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 372.83320000000003,
+    "videos": [
         "The Stray Cats - Rock This Town-m-a6ct8aalg.mp4",
         "Andy Gibb - I Just Want to Be Your Everything-tA6L8-lxaA8.mp4",
         "Illusiones Muertas- Conjunto Primavera-AwccXiXrikk.mp4",
@@ -36,7 +37,5 @@
         "Capitan Kavernikola - Lluvia de Mierda-xZNhOCgz-tI.mp4",
         "Control Machete - El Son Divo-RTyt7eWg7rc.mp4",
         "Danny Says (2002 Remaster)-kH4XGRDJ0P4.mp4"
-    ],
-    "id": "b2",
-    "total_size": 355.56153417968756
+    ]
 }
