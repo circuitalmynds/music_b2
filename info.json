@@ -162,6 +162,11 @@
             "size": 32.934890496
         },
         {
+            "name": "Les Yeux Noirs-itGzQb-Rc8k.mp4",
+            "path": "music_b2/videos/Les Yeux Noirs-itGzQb-Rc8k.mp4",
+            "size": 5.233337344000001
+        },
+        {
             "name": "Action-6fsLgTNrqnk.mp4",
             "path": "music_b2/videos/Action-6fsLgTNrqnk.mp4",
             "size": 4.481306624
@@ -202,5 +207,5 @@
             "size": 25.274707968
         }
     ],
-    "total_size": 459.75611187200013
+    "total_size": 464.98944921600014
 }
