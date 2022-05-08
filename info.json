@@ -207,6 +207,11 @@
             "size": 8.344794112
         },
         {
+            "name": "Georg Druschetzky - Oboe Concerto in C-major-TuJumff-SPc.mp4",
+            "path": "music_b2/videos/Georg Druschetzky - Oboe Concerto in C-major-TuJumff-SPc.mp4",
+            "size": 50.096080896000004
+        },
+        {
             "name": "Spandau Ballet - True (HD Remastered)-AR8D2yqgQ1U.mp4",
             "path": "music_b2/videos/Spandau Ballet - True (HD Remastered)-AR8D2yqgQ1U.mp4",
             "size": 20.846876672
@@ -222,5 +227,5 @@
             "size": 25.274707968
         }
     ],
-    "total_size": 489.7102202880001
+    "total_size": 539.8063011840001
 }
