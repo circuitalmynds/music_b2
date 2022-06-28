@@ -1,231 +1,277 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Conjunto Primavera - Una Vez Mas-KZFAD236Ge4.mp4",
-            "path": "music_b2/videos/Conjunto Primavera - Una Vez Mas-KZFAD236Ge4.mp4",
-            "size": 13.739869184000002
+            "path": "b2/videos/Conjunto Primavera - Una Vez Mas-KZFAD236Ge4.mp4",
+            "size": 13.739869184000002,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Conjunto Primavera - Una Vez Mas-KZFAD236Ge4.mp4?raw=true"
         },
         {
             "name": "H.H.H. - Intelectual Punks (EP 1986)-rCYDgm5293c.mp4",
-            "path": "music_b2/videos/H.H.H. - Intelectual Punks (EP 1986)-rCYDgm5293c.mp4",
-            "size": 29.166743552000003
+            "path": "b2/videos/H.H.H. - Intelectual Punks (EP 1986)-rCYDgm5293c.mp4",
+            "size": 29.166743552000003,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/H.H.H. - Intelectual Punks (EP 1986)-rCYDgm5293c.mp4?raw=true"
         },
         {
             "name": "Spandau Ballet - True (HD Remastered)-AR8D2yqgQ1U.mp4",
-            "path": "music_b2/videos/Spandau Ballet - True (HD Remastered)-AR8D2yqgQ1U.mp4",
-            "size": 20.846876672
+            "path": "b2/videos/Spandau Ballet - True (HD Remastered)-AR8D2yqgQ1U.mp4",
+            "size": 20.846876672,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Spandau Ballet - True (HD Remastered)-AR8D2yqgQ1U.mp4?raw=true"
         },
         {
             "name": "The Stray Cats - Rock This Town-m-a6ct8aalg.mp4",
-            "path": "music_b2/videos/The Stray Cats - Rock This Town-m-a6ct8aalg.mp4",
-            "size": 6.2992384
+            "path": "b2/videos/The Stray Cats - Rock This Town-m-a6ct8aalg.mp4",
+            "size": 6.2992384,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/The Stray Cats - Rock This Town-m-a6ct8aalg.mp4?raw=true"
         },
         {
             "name": "Kim Loaiza - Amándote 🦋 ft JD Pantoja (Video Oficial)-vtbP13dFqAo.mp4",
-            "path": "music_b2/videos/Kim Loaiza - Amándote 🦋 ft JD Pantoja (Video Oficial)-vtbP13dFqAo.mp4",
-            "size": 13.893102592000002
+            "path": "b2/videos/Kim Loaiza - Amándote 🦋 ft JD Pantoja (Video Oficial)-vtbP13dFqAo.mp4",
+            "size": 13.893102592000002,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Kim Loaiza - Amándote 🦋 ft JD Pantoja (Video Oficial)-vtbP13dFqAo.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 18 - Brigas, Nunca Mais-tvTK_P34DVU.mp4",
-            "path": "music_b2/videos/João Gilberto - 18 - Brigas, Nunca Mais-tvTK_P34DVU.mp4",
-            "size": 3.2993689600000002
+            "path": "b2/videos/João Gilberto - 18 - Brigas, Nunca Mais-tvTK_P34DVU.mp4",
+            "size": 3.2993689600000002,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/João Gilberto - 18 - Brigas, Nunca Mais-tvTK_P34DVU.mp4?raw=true"
         },
         {
             "name": "jULIO iGLESIAS AMANTES-PhwZ9weiZ4I.mp4",
-            "path": "music_b2/videos/jULIO iGLESIAS AMANTES-PhwZ9weiZ4I.mp4",
-            "size": 9.13932288
+            "path": "b2/videos/jULIO iGLESIAS AMANTES-PhwZ9weiZ4I.mp4",
+            "size": 9.13932288,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/jULIO iGLESIAS AMANTES-PhwZ9weiZ4I.mp4?raw=true"
         },
         {
             "name": "Lupe Ruvalcaba-qDANvvjBmxQ.mp4",
-            "path": "music_b2/videos/Lupe Ruvalcaba-qDANvvjBmxQ.mp4",
-            "size": 7.706297344
+            "path": "b2/videos/Lupe Ruvalcaba-qDANvvjBmxQ.mp4",
+            "size": 7.706297344,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Lupe Ruvalcaba-qDANvvjBmxQ.mp4?raw=true"
         },
         {
             "name": "Georg Druschetzky - Oboe Concerto in C-major-TuJumff-SPc.mp4",
-            "path": "music_b2/videos/Georg Druschetzky - Oboe Concerto in C-major-TuJumff-SPc.mp4",
-            "size": 50.096080896000004
+            "path": "b2/videos/Georg Druschetzky - Oboe Concerto in C-major-TuJumff-SPc.mp4",
+            "size": 50.096080896000004,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Georg Druschetzky - Oboe Concerto in C-major-TuJumff-SPc.mp4?raw=true"
         },
         {
             "name": "Dream Theater - Lost Without You-kRnoCSAg_0c.mp4",
-            "path": "music_b2/videos/Dream Theater - Lost Without You-kRnoCSAg_0c.mp4",
-            "size": 9.526075392000001
+            "path": "b2/videos/Dream Theater - Lost Without You-kRnoCSAg_0c.mp4",
+            "size": 9.526075392000001,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Dream Theater - Lost Without You-kRnoCSAg_0c.mp4?raw=true"
         },
         {
             "name": "Self Revolution-LuTchhCR7dY.mp4",
-            "path": "music_b2/videos/Self Revolution-LuTchhCR7dY.mp4",
-            "size": 8.344794112
+            "path": "b2/videos/Self Revolution-LuTchhCR7dY.mp4",
+            "size": 8.344794112,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Self Revolution-LuTchhCR7dY.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 27 - Samba da Minha Terra-lcGtm-HTqDg.mp4",
-            "path": "music_b2/videos/João Gilberto - 27 - Samba da Minha Terra-lcGtm-HTqDg.mp4",
-            "size": 3.748083712
+            "path": "b2/videos/João Gilberto - 27 - Samba da Minha Terra-lcGtm-HTqDg.mp4",
+            "size": 3.748083712,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/João Gilberto - 27 - Samba da Minha Terra-lcGtm-HTqDg.mp4?raw=true"
         },
         {
             "name": "Les Yeux Noirs-itGzQb-Rc8k.mp4",
-            "path": "music_b2/videos/Les Yeux Noirs-itGzQb-Rc8k.mp4",
-            "size": 5.233337344000001
+            "path": "b2/videos/Les Yeux Noirs-itGzQb-Rc8k.mp4",
+            "size": 5.233337344000001,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Les Yeux Noirs-itGzQb-Rc8k.mp4?raw=true"
         },
         {
             "name": "Lola Flores - A tu vera (de la película 'El balcón de la luna')-JF-dTBA3ywY.mp4",
-            "path": "music_b2/videos/Lola Flores - A tu vera (de la película 'El balcón de la luna')-JF-dTBA3ywY.mp4",
-            "size": 14.522228736
+            "path": "b2/videos/Lola Flores - A tu vera (de la película 'El balcón de la luna')-JF-dTBA3ywY.mp4",
+            "size": 14.522228736,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Lola Flores - A tu vera (de la película 'El balcón de la luna')-JF-dTBA3ywY.mp4?raw=true"
         },
         {
             "name": "Dopaje-VIN4dAJ7aFw.mp4",
-            "path": "music_b2/videos/Dopaje-VIN4dAJ7aFw.mp4",
-            "size": 8.164201472
+            "path": "b2/videos/Dopaje-VIN4dAJ7aFw.mp4",
+            "size": 8.164201472,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Dopaje-VIN4dAJ7aFw.mp4?raw=true"
         },
         {
             "name": "Se Acabo Quien Te Queria-noDMR9qqqRk.mp4",
-            "path": "music_b2/videos/Se Acabo Quien Te Queria-noDMR9qqqRk.mp4",
-            "size": 6.397336576000001
+            "path": "b2/videos/Se Acabo Quien Te Queria-noDMR9qqqRk.mp4",
+            "size": 6.397336576000001,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Se Acabo Quien Te Queria-noDMR9qqqRk.mp4?raw=true"
         },
         {
             "name": "Leo Dan, Edwin Luna y la Trakalosa de Monterrey - Pero Raquel (En Vivo)-BffHGiiMJcE.mp4",
-            "path": "music_b2/videos/Leo Dan, Edwin Luna y la Trakalosa de Monterrey - Pero Raquel (En Vivo)-BffHGiiMJcE.mp4",
-            "size": 17.945494528
+            "path": "b2/videos/Leo Dan, Edwin Luna y la Trakalosa de Monterrey - Pero Raquel (En Vivo)-BffHGiiMJcE.mp4",
+            "size": 17.945494528,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Leo Dan, Edwin Luna y la Trakalosa de Monterrey - Pero Raquel (En Vivo)-BffHGiiMJcE.mp4?raw=true"
         },
         {
             "name": "Graciela Beltrán y Conjunto Primavera - 'Corazón encadenado'-w9WQ-XxHNEQ.mp4",
-            "path": "music_b2/videos/Graciela Beltrán y Conjunto Primavera - 'Corazón encadenado'-w9WQ-XxHNEQ.mp4",
-            "size": 12.760818688
+            "path": "b2/videos/Graciela Beltrán y Conjunto Primavera - 'Corazón encadenado'-w9WQ-XxHNEQ.mp4",
+            "size": 12.760818688,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Graciela Beltrán y Conjunto Primavera - 'Corazón encadenado'-w9WQ-XxHNEQ.mp4?raw=true"
         },
         {
             "name": "Suicide & Redemption-wr_pNRdUZpA.mp4",
-            "path": "music_b2/videos/Suicide & Redemption-wr_pNRdUZpA.mp4",
-            "size": 26.795452416000003
+            "path": "b2/videos/Suicide & Redemption-wr_pNRdUZpA.mp4",
+            "size": 26.795452416000003,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Suicide & Redemption-wr_pNRdUZpA.mp4?raw=true"
         },
         {
             "name": "KC ~ Give It Up 1984 Disco Purrfection Version-H2aeEvIu-Mc.mp4",
-            "path": "music_b2/videos/KC ~ Give It Up 1984 Disco Purrfection Version-H2aeEvIu-Mc.mp4",
-            "size": 32.934890496
+            "path": "b2/videos/KC ~ Give It Up 1984 Disco Purrfection Version-H2aeEvIu-Mc.mp4",
+            "size": 32.934890496,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/KC ~ Give It Up 1984 Disco Purrfection Version-H2aeEvIu-Mc.mp4?raw=true"
         },
         {
             "name": "Been Down a Lot Lately-vF0fJ0VN3Ls.mp4",
-            "path": "music_b2/videos/Been Down a Lot Lately-vF0fJ0VN3Ls.mp4",
-            "size": 6.057311232
+            "path": "b2/videos/Been Down a Lot Lately-vF0fJ0VN3Ls.mp4",
+            "size": 6.057311232,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Been Down a Lot Lately-vF0fJ0VN3Ls.mp4?raw=true"
         },
         {
             "name": "Action-6fsLgTNrqnk.mp4",
-            "path": "music_b2/videos/Action-6fsLgTNrqnk.mp4",
-            "size": 4.481306624
+            "path": "b2/videos/Action-6fsLgTNrqnk.mp4",
+            "size": 4.481306624,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Action-6fsLgTNrqnk.mp4?raw=true"
         },
         {
             "name": "Andy Gibb - I Just Want to Be Your Everything-tA6L8-lxaA8.mp4",
-            "path": "music_b2/videos/Andy Gibb - I Just Want to Be Your Everything-tA6L8-lxaA8.mp4",
-            "size": 5.0270668800000005
+            "path": "b2/videos/Andy Gibb - I Just Want to Be Your Everything-tA6L8-lxaA8.mp4",
+            "size": 5.0270668800000005,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Andy Gibb - I Just Want to Be Your Everything-tA6L8-lxaA8.mp4?raw=true"
         },
         {
             "name": "I Want To Be Your Driver-Kul2wP_MhR4.mp4",
-            "path": "music_b2/videos/I Want To Be Your Driver-Kul2wP_MhR4.mp4",
-            "size": 2.434548736
+            "path": "b2/videos/I Want To Be Your Driver-Kul2wP_MhR4.mp4",
+            "size": 2.434548736,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/I Want To Be Your Driver-Kul2wP_MhR4.mp4?raw=true"
         },
         {
             "name": "Ska-P - Juan sin tierra-bED_EoVtEQc.mp4",
-            "path": "music_b2/videos/Ska-P - Juan sin tierra-bED_EoVtEQc.mp4",
-            "size": 5.0439813120000005
+            "path": "b2/videos/Ska-P - Juan sin tierra-bED_EoVtEQc.mp4",
+            "size": 5.0439813120000005,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Ska-P - Juan sin tierra-bED_EoVtEQc.mp4?raw=true"
         },
         {
             "name": "Brand New Love (Take A Chance)-2FjCMYcNq5w.mp4",
-            "path": "music_b2/videos/Brand New Love (Take A Chance)-2FjCMYcNq5w.mp4",
-            "size": 6.72981504
+            "path": "b2/videos/Brand New Love (Take A Chance)-2FjCMYcNq5w.mp4",
+            "size": 6.72981504,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Brand New Love (Take A Chance)-2FjCMYcNq5w.mp4?raw=true"
         },
         {
             "name": "Je veux te voir-Y99UqvgCmE8.mp4",
-            "path": "music_b2/videos/Je veux te voir-Y99UqvgCmE8.mp4",
-            "size": 4.566976512
+            "path": "b2/videos/Je veux te voir-Y99UqvgCmE8.mp4",
+            "size": 4.566976512,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Je veux te voir-Y99UqvgCmE8.mp4?raw=true"
         },
         {
             "name": "The Essence - Only For You 1988 (Subtitulada)-rzA76vCbLcA.mp4",
-            "path": "music_b2/videos/The Essence - Only For You 1988 (Subtitulada)-rzA76vCbLcA.mp4",
-            "size": 12.627893248000001
+            "path": "b2/videos/The Essence - Only For You 1988 (Subtitulada)-rzA76vCbLcA.mp4",
+            "size": 12.627893248000001,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/The Essence - Only For You 1988 (Subtitulada)-rzA76vCbLcA.mp4?raw=true"
         },
         {
             "name": "Heroe de Leyenda Heroes del silencio-7top5v_-3dY.mp4",
-            "path": "music_b2/videos/Heroe de Leyenda Heroes del silencio-7top5v_-3dY.mp4",
-            "size": 24.107315200000002
+            "path": "b2/videos/Heroe de Leyenda Heroes del silencio-7top5v_-3dY.mp4",
+            "size": 24.107315200000002,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Heroe de Leyenda Heroes del silencio-7top5v_-3dY.mp4?raw=true"
         },
         {
             "name": "La Ley - Mentira (Video Oficial)-d1dcXgGQT2M.mp4",
-            "path": "music_b2/videos/La Ley - Mentira (Video Oficial)-d1dcXgGQT2M.mp4",
-            "size": 21.062860800000003
+            "path": "b2/videos/La Ley - Mentira (Video Oficial)-d1dcXgGQT2M.mp4",
+            "size": 21.062860800000003,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/La Ley - Mentira (Video Oficial)-d1dcXgGQT2M.mp4?raw=true"
         },
         {
             "name": "KO ETILIKO - Hoy es mi dia (Jimmy Jazz 2020)-ibY-5YW7B_8.mp4",
-            "path": "music_b2/videos/KO ETILIKO - Hoy es mi dia (Jimmy Jazz 2020)-ibY-5YW7B_8.mp4",
-            "size": 10.192242688
+            "path": "b2/videos/KO ETILIKO - Hoy es mi dia (Jimmy Jazz 2020)-ibY-5YW7B_8.mp4",
+            "size": 10.192242688,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/KO ETILIKO - Hoy es mi dia (Jimmy Jazz 2020)-ibY-5YW7B_8.mp4?raw=true"
         },
         {
             "name": "Hanoï café-ILP3KAVfKLs.mp4",
-            "path": "music_b2/videos/Hanoï café-ILP3KAVfKLs.mp4",
-            "size": 4.03690496
+            "path": "b2/videos/Hanoï café-ILP3KAVfKLs.mp4",
+            "size": 4.03690496,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Hanoï café-ILP3KAVfKLs.mp4?raw=true"
         },
         {
             "name": "Danny Says (2002 Remaster)-kH4XGRDJ0P4.mp4",
-            "path": "music_b2/videos/Danny Says (2002 Remaster)-kH4XGRDJ0P4.mp4",
-            "size": 4.367190016
+            "path": "b2/videos/Danny Says (2002 Remaster)-kH4XGRDJ0P4.mp4",
+            "size": 4.367190016,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Danny Says (2002 Remaster)-kH4XGRDJ0P4.mp4?raw=true"
         },
         {
             "name": "Capitan Kavernikola - Lluvia de Mierda-xZNhOCgz-tI.mp4",
-            "path": "music_b2/videos/Capitan Kavernikola - Lluvia de Mierda-xZNhOCgz-tI.mp4",
-            "size": 20.680952832000003
+            "path": "b2/videos/Capitan Kavernikola - Lluvia de Mierda-xZNhOCgz-tI.mp4",
+            "size": 20.680952832000003,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Capitan Kavernikola - Lluvia de Mierda-xZNhOCgz-tI.mp4?raw=true"
         },
         {
             "name": "Jose Luis Perales - Me llamas-HThwascSkzA.mp4",
-            "path": "music_b2/videos/Jose Luis Perales - Me llamas-HThwascSkzA.mp4",
-            "size": 7.387988992
+            "path": "b2/videos/Jose Luis Perales - Me llamas-HThwascSkzA.mp4",
+            "size": 7.387988992,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Jose Luis Perales - Me llamas-HThwascSkzA.mp4?raw=true"
         },
         {
             "name": "Las 2 Cruces (Video Oficial) - El Komander-qGpXBE33m0g.mp4",
-            "path": "music_b2/videos/Las 2 Cruces (Video Oficial) - El Komander-qGpXBE33m0g.mp4",
-            "size": 18.262731776000003
+            "path": "b2/videos/Las 2 Cruces (Video Oficial) - El Komander-qGpXBE33m0g.mp4",
+            "size": 18.262731776000003,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Las 2 Cruces (Video Oficial) - El Komander-qGpXBE33m0g.mp4?raw=true"
         },
         {
             "name": "Slowdive - Demos-66dZicHl0zM.mp4",
-            "path": "music_b2/videos/Slowdive - Demos-66dZicHl0zM.mp4",
-            "size": 25.274707968
+            "path": "b2/videos/Slowdive - Demos-66dZicHl0zM.mp4",
+            "size": 25.274707968,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Slowdive - Demos-66dZicHl0zM.mp4?raw=true"
         },
         {
             "name": "Hossana - Hillsong-j6xHR3t9e-I.mp4",
-            "path": "music_b2/videos/Hossana - Hillsong-j6xHR3t9e-I.mp4",
-            "size": 19.000807424
+            "path": "b2/videos/Hossana - Hillsong-j6xHR3t9e-I.mp4",
+            "size": 19.000807424,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Hossana - Hillsong-j6xHR3t9e-I.mp4?raw=true"
         },
         {
             "name": "Johnny Cash - Joe Bean-0vatmEJiWAk.mp4",
-            "path": "music_b2/videos/Johnny Cash - Joe Bean-0vatmEJiWAk.mp4",
-            "size": 3.170291712
+            "path": "b2/videos/Johnny Cash - Joe Bean-0vatmEJiWAk.mp4",
+            "size": 3.170291712,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Johnny Cash - Joe Bean-0vatmEJiWAk.mp4?raw=true"
         },
         {
             "name": "Illusiones Muertas- Conjunto Primavera-AwccXiXrikk.mp4",
-            "path": "music_b2/videos/Illusiones Muertas- Conjunto Primavera-AwccXiXrikk.mp4",
-            "size": 7.146497024
+            "path": "b2/videos/Illusiones Muertas- Conjunto Primavera-AwccXiXrikk.mp4",
+            "size": 7.146497024,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Illusiones Muertas- Conjunto Primavera-AwccXiXrikk.mp4?raw=true"
         },
         {
             "name": "Irremediablemente - Conjunto Primavera-vXL8ZkQ3I9I.mp4",
-            "path": "music_b2/videos/Irremediablemente - Conjunto Primavera-vXL8ZkQ3I9I.mp4",
-            "size": 8.207136768
+            "path": "b2/videos/Irremediablemente - Conjunto Primavera-vXL8ZkQ3I9I.mp4",
+            "size": 8.207136768,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Irremediablemente - Conjunto Primavera-vXL8ZkQ3I9I.mp4?raw=true"
         },
         {
             "name": "Control Machete - El Son Divo-RTyt7eWg7rc.mp4",
-            "path": "music_b2/videos/Control Machete - El Son Divo-RTyt7eWg7rc.mp4",
-            "size": 3.30097664
+            "path": "b2/videos/Control Machete - El Son Divo-RTyt7eWg7rc.mp4",
+            "size": 3.30097664,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Control Machete - El Son Divo-RTyt7eWg7rc.mp4?raw=true"
         },
         {
             "name": "Rosenberg Trio - Nuages-U7UHmKfUAu8.mp4",
-            "path": "music_b2/videos/Rosenberg Trio - Nuages-U7UHmKfUAu8.mp4",
-            "size": 9.31701248
+            "path": "b2/videos/Rosenberg Trio - Nuages-U7UHmKfUAu8.mp4",
+            "size": 9.31701248,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Rosenberg Trio - Nuages-U7UHmKfUAu8.mp4?raw=true"
         },
         {
             "name": "Maybe Someday (Acoustic Mix)-tpQsd7K5O8g.mp4",
-            "path": "music_b2/videos/Maybe Someday (Acoustic Mix)-tpQsd7K5O8g.mp4",
-            "size": 6.507070464000001
+            "path": "b2/videos/Maybe Someday (Acoustic Mix)-tpQsd7K5O8g.mp4",
+            "size": 6.507070464000001,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Maybe Someday (Acoustic Mix)-tpQsd7K5O8g.mp4?raw=true"
         },
         {
             "name": "Hello, I Love You (Slight Return Mix)-F1fE_s1rej0.mp4",
-            "path": "music_b2/videos/Hello, I Love You (Slight Return Mix)-F1fE_s1rej0.mp4",
-            "size": 0.255099904
+            "path": "b2/videos/Hello, I Love You (Slight Return Mix)-F1fE_s1rej0.mp4",
+            "size": 0.255099904,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Hello, I Love You (Slight Return Mix)-F1fE_s1rej0.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 539.8063011840002
 }
