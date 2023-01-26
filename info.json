@@ -2,6 +2,13 @@
     "available_space": false,
     "content": [
         {
+            "id": "PhwZ9weiZ4I",
+            "name": "Julio Iglesias - Amantes.-PhwZ9weiZ4I.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b2/videos/Julio Iglesias - Amantes.-PhwZ9weiZ4I.mp4",
+            "size": 4.340021,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Julio Iglesias - Amantes.-PhwZ9weiZ4I.mp4?raw=true"
+        },
+        {
             "id": "rCYDgm5293c",
             "name": "H.H.H. - Intelectual Punks (EP 1986)-rCYDgm5293c.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/b2/videos/H.H.H. - Intelectual Punks (EP 1986)-rCYDgm5293c.mp4",
@@ -49,6 +56,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/b2/videos/Lupe Ruvalcaba-qDANvvjBmxQ.mp4",
             "size": 7.525681,
             "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Lupe Ruvalcaba-qDANvvjBmxQ.mp4?raw=true"
+        },
+        {
+            "id": "ILP3KAVfKLs",
+            "name": "Bleu Toucan - Hanoï Café-ILP3KAVfKLs.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b2/videos/Bleu Toucan - Hanoï Café-ILP3KAVfKLs.mp4",
+            "size": 9.712266,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Bleu Toucan - Hanoï Café-ILP3KAVfKLs.mp4?raw=true"
         },
         {
             "id": "TuJumff-SPc",
@@ -387,6 +401,13 @@
             "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/KO ETILIKO - Hoy es mi dia (Jimmy Jazz 2020)-ibY-5YW7B_8.mp4?raw=true"
         },
         {
+            "id": "Y99UqvgCmE8",
+            "name": "Yelle - Je Veux Te Voir-Y99UqvgCmE8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/b2/videos/Yelle - Je Veux Te Voir-Y99UqvgCmE8.mp4",
+            "size": 15.867557999999999,
+            "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Yelle - Je Veux Te Voir-Y99UqvgCmE8.mp4?raw=true"
+        },
+        {
             "id": "ILP3KAVfKLs",
             "name": "Hanoï café-ILP3KAVfKLs.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/b2/videos/Hanoï café-ILP3KAVfKLs.mp4",
@@ -485,5 +506,5 @@
             "url": "https://github.com/circuitalmynds/music_b2/blob/main/videos/Hello, I Love You (Slight Return Mix)-F1fE_s1rej0.mp4?raw=true"
         }
     ],
-    "total_size": 999.2633519999995
+    "total_size": 1029.1831969999996
 }
